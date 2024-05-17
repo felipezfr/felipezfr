@@ -1,5 +1,7 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/felipe-zaffari-421301204/"><i>Felipe Zaffari</i></a> ☺️ </h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/felipe-zaffari-421301204/"><i>Felipe Zaffari</i></a></h1>
+
+  <p>Graduado em Engenharia de Computação, venho desenvolvendo habilidades em programação desde 2017, com os últimos três anos focados no desenvolvimento mobile utilizando Flutter. Fui responsável técnico do aplicativo Telemetria Stara, o qual liderei a migração para Flutter, criando uma arquitetura robusta e escalável. Tenho experiência na publicação de aplicativos nas lojas, gestão de infraestrutura em nuvem e também desenvolvimento de APIs. Possuo uma base sólida em princípios de desenvolvimento de software, metodologias ágeis e gerenciamento de projetos.</p>
 
 
 <div align="center">
