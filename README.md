@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/felipe-zaffari-421301204/"><i>Felipe Zaffari</i></a></h1>
 
-  <p>Graduado em Engenharia de Computação, venho desenvolvendo habilidades em programação desde 2017, com os últimos três anos focados no desenvolvimento mobile utilizando o framework Flutter e a linguagem Dart. Fui responsável técnico pelo aplicativo Telemetria Stara, sistema de monitoramento em tempo real de máquinas agrícolas, utilizado em mais de 10 países,  o qual liderei sua migração para Flutter, criando uma arquitetura robusta e escalável. Tenho experiência na publicação de aplicativos nas lojas, gestão de infraestrutura em nuvem e também desenvolvimento de APIs. Possuo uma base sólida em princípios de desenvolvimento de software, metodologias ágeis e gerenciamento de projetos.</p>
+  <p>Engenheiro de Computação com mais de 5 anos de experiência em desenvolvimento mobile, incluindo soluções com mais de 1 milhão de downloads e uso em mais de 10 países. Experiência sólida em arquiteturas escaláveis, apps white label com personalização remota, domínio do ecossistema Firebase, além de integração com mapas avançados (MapBox, Google Maps) e consumo de APIs REST. Experiência na publicação de apps nas lojas (Google Play e App Store), além de conhecimentos em backend e gestão de infraestrutura em nuvem. Forte base em engenharia de software, práticas ágeis e arquitetura de aplicações modernas.</p>
 
 
 <div align="center">
