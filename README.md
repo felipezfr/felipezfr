@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/felipe-zaffari-421301204/"><i>Felipe Zaffari</i></a></h1>
+ <!-- <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/felipe-zaffari-421301204/"><i>Felipe Zaffari</i></a></h1> -->
 
   <p>Engenheiro de Computação com mais de 5 anos de experiência em desenvolvimento mobile, incluindo soluções com mais de 1 milhão de downloads e uso em mais de 10 países. Experiência sólida em arquiteturas escaláveis, apps white label com personalização remota, domínio do ecossistema Firebase, além de integração com mapas avançados (MapBox, Google Maps) e consumo de APIs REST. Experiência na publicação de apps nas lojas (Google Play e App Store), além de conhecimentos em backend e gestão de infraestrutura em nuvem. Forte base em engenharia de software, práticas ágeis e arquitetura de aplicações modernas.</p>
 
@@ -32,9 +32,10 @@
 </div><br>
 
 <div align="center">
-
+<!--
   <a href="https://www.linkedin.com/in/felipe-zaffari-421301204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/felipezfr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:felipezfr@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  -->
 </div>
 
